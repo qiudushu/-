@@ -14,6 +14,14 @@
 
 @implementation AppDelegate
 
+/**
+ *  最爱的还是你
+ *
+ *  @param application   <#application description#>
+ *  @param launchOptions <#launchOptions description#>
+ *
+ *  @return <#return value description#>
+ */
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
